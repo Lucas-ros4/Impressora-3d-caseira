@@ -1,18 +1,19 @@
-# Impressora 3D Caseira ♻
+# Impressora 3D Caseira 
 
 
 Projeto pessoal de **impressora 3D feita com materiais recicláveis e de fácil acesso**.  
 O objetivo foi aprender mais sobre o funcionamento de impressoras 3D e, ao mesmo tempo, ter acesso a uma máquina própria para uso em projetos futuros.
 
-[ Foto da impressora aqui ]
+
+![1755462619664](https://github.com/user-attachments/assets/b056b86a-a524-412b-9dc5-ba4ccc7ff9f7)
 
 ---
 
-##  Motivação
+
 Durante o desenvolvimento, alguns desafios surgiram:
 - Falta de informações e manuais de funcionamento claros.
 - Dificuldade de acesso a certos materiais no Brasil.
-- Alto custo de peças novas, o que me levou a **importar** alguns componentes ou **comprar usados** em ferro-velho.
+- Alto custo de peças novas, o que me levou a importar alguns componentes ou comprar usados em ferro-velho.
 
 ---
 
@@ -27,7 +28,9 @@ Durante o desenvolvimento, alguns desafios surgiram:
   - **Arduino Mega 2560**  
   - Drivers **A4988**  
 - **Firmware:** [Marlin](https://marlinfw.org/) (firmware open-source para impressoras 3D, com modificações para este projeto).  
-- **Software de impressão:** Repetier-Host.  
+- **Software de impressão:** Repetier-Host.
+
+
 
 ---
 
@@ -64,10 +67,13 @@ Durante o desenvolvimento, alguns desafios surgiram:
 ---
 
 ##  Galeria
-- Foto da impressora montada.  
-- Detalhe do eixo Z com fusos.  
-- Eletrônica organizada.  
-- Primeiras impressões realizadas.  
+![1755462619670](https://github.com/user-attachments/assets/8d82be1d-51de-4de3-b1f4-d8176217d387)
+<img width="1440" height="940" alt="Creation_Image_1755463234356_1" src="https://github.com/user-attachments/assets/422b5f16-04b7-49a4-80f7-64bfedf4a2b5" />
+
+![1755462619723](https://github.com/user-attachments/assets/c0cf7253-9173-4a21-adfa-6577aae9fe19)
+![1755462619716](https://github.com/user-attachments/assets/180f1a6d-e644-42bb-8809-2a528ae5889f)
+*Impressão de um projeto para robô sumô*
+  
 
 ---
 
