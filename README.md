@@ -1,4 +1,4 @@
-# Impressora 3D Caseira ♻️
+# Impressora 3D Caseira ♻
 
 
 Projeto pessoal de **impressora 3D feita com materiais recicláveis e de fácil acesso**.  
@@ -8,7 +8,7 @@ O objetivo foi aprender mais sobre o funcionamento de impressoras 3D e, ao mesmo
 
 ---
 
-## 🚀 Motivação
+##  Motivação
 Durante o desenvolvimento, alguns desafios surgiram:
 - Falta de informações e manuais de funcionamento claros.
 - Dificuldade de acesso a certos materiais no Brasil.
@@ -16,7 +16,7 @@ Durante o desenvolvimento, alguns desafios surgiram:
 
 ---
 
-## ⚙️ Especificações Técnicas
+##  Especificações Técnicas
 - **Estrutura:** madeira reciclada.  
 - **Eixo X/Y:** 2 motores **Nema 17** com correia dentada e tensor.  
 - **Eixo Z:** 2 motores **Nema 17** + fusos trapezoidais para estabilidade.  
@@ -31,7 +31,7 @@ Durante o desenvolvimento, alguns desafios surgiram:
 
 ---
 
-## 📦 Lista de Materiais (BOM)
+##  Lista de Materiais 
 
 | Item                              | Quantidade | Preço (R$) |
 |----------------------------------|------------|------------|
@@ -52,7 +52,7 @@ Durante o desenvolvimento, alguns desafios surgiram:
 
 ---
 
-## 🛠️ Montagem
+##  Montagem
 1. Montagem da estrutura de madeira.  
 2. Instalação das corrediças de gaveta como guias lineares.  
 3. Fixação dos motores Nema 17 e fusos trapezoidais (eixo Z).  
@@ -63,7 +63,7 @@ Durante o desenvolvimento, alguns desafios surgiram:
 
 ---
 
-## 📷 Galeria
+##  Galeria
 - Foto da impressora montada.  
 - Detalhe do eixo Z com fusos.  
 - Eletrônica organizada.  
@@ -71,11 +71,11 @@ Durante o desenvolvimento, alguns desafios surgiram:
 
 ---
 
-## 📚 Referências
+##  Referências
 - [Firmware Marlin](https://marlinfw.org/)  
 - [Repetier-Host](https://www.repetier.com/)  
 
 ---
 
-## 📄 Licença
+##  Licença
 Este projeto é **open-source** sob a licença MIT — sinta-se livre para usar, modificar e compartilhar.
