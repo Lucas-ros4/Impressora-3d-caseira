@@ -1,6 +1,6 @@
 # Impressora 3D Caseira ♻️
 
-**Descrição**  
+
 Projeto pessoal de **impressora 3D feita com materiais recicláveis e de fácil acesso**.  
 O objetivo foi aprender mais sobre o funcionamento de impressoras 3D e, ao mesmo tempo, ter acesso a uma máquina própria para uso em projetos futuros.
 
